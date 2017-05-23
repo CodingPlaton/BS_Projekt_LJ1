@@ -1,0 +1,20 @@
+c:\users\sydney nortmann\documents\visual studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.exe.config
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.exe
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.pdb
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.csprojResolveAssemblyReference.cache
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.Form1.resources
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.Properties.Resources.resources
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.csproj.GenerateResource.Cache
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.exe
+C:\Users\Sydney Nortmann\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.pdb
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.exe.config
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.exe
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.pdb
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.csprojResolveAssemblyReference.cache
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.Form1.resources
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.Properties.Resources.resources
+C:\Users\Sydney\Documents\Visual Studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.csproj.GenerateResource.Cache
+C:\Users\Sydney Nortmann\documents\visual studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.exe.manifest
+C:\Users\Sydney Nortmann\documents\visual studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\bin\Debug\Spannungsteiler_BS.application
+C:\Users\Sydney Nortmann\documents\visual studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.exe.manifest
+C:\Users\Sydney Nortmann\documents\visual studio 2015\Projects\Spannungsteiler_BS\Spannungsteiler_BS\obj\Debug\Spannungsteiler_BS.application
